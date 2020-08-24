@@ -1,0 +1,110 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #eee;
+}
+
+br {
+    line-height: 150%;
+}
+
+.page-title {
+    margin: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.universal-notes-actions {
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.notes-list {
+    padding-top: 50px;
+}
+
+.notes-list-note {
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+    overflow: auto;
+}
+
+.notes-list-note-buttons {
+    margin: 0 auto;
+    padding-top: 5px;
+}
+
+.empty-notes-list-alert {
+    position: relative;
+    margin: 0 auto;
+    max-width: 190px;
+    top: 50px;
+}
+
+.note-editor-label-and-content {
+    padding-top: 100px;
+}
+
+.note-editor-buttons {
+    padding-top: 8px;
+    display: inline-block;
+}
+
+.note-editor-note-details-text {
+    display: inline-block;
+    width: 659px;
+    text-align: right;
+}
+
+.note-editor-history-button {
+    padding-top: 8px;
+    display: inline-block;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+
+.form-signin .checkbox {
+    font-weight: normal;
+}
+
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.form-signin input {
+    margin-top: 10px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin button {
+    margin-top: 10px;
+}
+
+.has-error {
+    color: red
+}
